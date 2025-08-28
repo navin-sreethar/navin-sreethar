@@ -15,7 +15,7 @@
 ## 🛠 Skills & Tools  
 **Languages:** Python, JavaScript, SQL  
 **AI/ML:** Scikit-learn, TensorFlow, Hugging Face, NLP, LLM-based Agents  
-**Web Dev:** Flask, Streamlit, HTML/CSS, Jinja2  
+**Web Dev:** Flask, Streamlit, HTML/CSS  
 **Data:** Pandas, NumPy, Data Visualization  
 **Other:** Git, APIs, Agile, Ethical AI  
 
@@ -23,14 +23,24 @@
 
 ## 🚀 Featured Projects  
 
-- 🔹 [Spam Email Classifier](https://github.com/navin-sreethar/Spam-Classifier)  
-  *A web app that detects whether an email is spam or ham using a pretrained Hugging Face model.*  
+- 🔹 [Spam Detection API](https://github.com/navin-sreethar/Spam-Classifier)  
+  *A modern web application that detects spam emails using **AI and BERT**.  
+   - Built with **FastAPI**, **PyTorch**, and **HuggingFace Transformers**  
+   - Provides real-time predictions with confidence scores  
+   - Includes a clean web interface for user interaction  
+   - Demonstrates production-ready integration of ML models into a web service*  
 
 - 🔹 [Ethical AI Chatbot](https://github.com/navin-sreethar/Ethical_AI_Customer-Chatbot)  
-  *AI-powered chatbot designed with ethical response handling for customer queries.*  
+  *An AI-powered chatbot designed with **ethical response handling** for customer support.  
+   - Implements NLP models to understand and answer queries responsibly  
+   - Includes rule-based safeguards to avoid biased, offensive, or unsafe outputs  
+   - Showcases how AI can be deployed responsibly in real-world customer service*  
 
 - 🔹 [Toxic Comment Detection](https://github.com/navin-sreethar/ToxicCommentDetection)  
-  *Classifies user comments as toxic or safe, helping maintain healthy online interactions.*  
+  *A classifier that detects toxic or harmful comments to maintain healthier online platforms.  
+   - Trained on public datasets of online comments using **scikit-learn** & **TensorFlow**  
+   - Preprocesses text data with tokenization, stop-word removal, and vectorization  
+   - Can be integrated into forums, chat systems, or social media tools to moderate discussions*  
 
 ---
 
